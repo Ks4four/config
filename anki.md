@@ -2,6 +2,8 @@
 
 ## Deck Options
 
+**Options in bold** mean they have been modified and are not the default settings.
+
 ### New Cards
 
 - **Learning steps**: `15s 1m 10m`
@@ -23,35 +25,35 @@
 
 ### Burying
 
-- **Bury new siblings**: on
-- **Bury review siblings**: on
-- **Bury interday learning siblings**: on
+- **Bury new siblings**: `on`
+- **Bury review siblings**: `on`
+- **Bury interday learning siblings**: `on`
 
 ### Audio
 
-- Don't play audio automatically: off
-- Skip question when replaying answer: off
+- Don't play audio automatically: `off`
+- Skip question when replaying answer: `off`
 
 ### Timer
 
-- **Maximum answer seconds**: 10
-- **Show answer timer**: on
-- **Stop timer on answer**: on
+- **Maximum answer seconds**: `10`
+- **Show answer timer**: `on`
+- **Stop timer on answer**: `on`
 
 ### Auto Advance
 
-- Seconds to show question for: 0.0
-- Seconds to show answer for: 0.0
-- **Wait for audio**: off
+- Seconds to show question for: `0.0`
+- Seconds to show answer for: `0.0`
+- **Wait for audio**: `off`
 - Answer action: Bury Card
 - Question action: Show Answer
 
 ### FSRS
 
-- **FSRS**: on
-- **Desired retention:** 0.97
+- **FSRS**: `on`
+- **Desired retention**: `0.97`
 
 ### Advanced
 
-- Maximum interval: 36500
-- Historical retention: 0.90
+- Maximum interval: `36500`
+- Historical retention: `0.90`
