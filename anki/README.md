@@ -57,3 +57,23 @@
 
 - Maximum interval: `36500`
 - Historical retention: `0.90`
+
+## Plugins
+
+### Contanki
+
+[Contanki](https://ankiweb.net/shared/info/1898790263) is a plugin that adds controller support to Anki.
+
+#### Installation
+
+To install Contanki, use the AnkiWeb shared ID `1898790263`.
+
+#### My profile
+
+My profile is configured for joystick-only use.
+One joystick can handle all review tasks:
+any direction can **flip cards**,
+and the four directional inputs are used for marking cards as **Easy**, **Good**, **Bad**, or **Again**.
+
+Additionally, the `LT` and `RT` buttons are used for flipping cards,
+while the `LB` and `RB` buttons are used for undoing actions if needed.
