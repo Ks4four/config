@@ -70,8 +70,6 @@ To install Contanki, use the AnkiWeb shared ID `1898790263`.
 
 #### My profile
 
-You can access my profile file [here](/anki/joystick-main.contanki).
-
 My profile is configured for joystick-only use.
 
 - Any direction on the joystick can **flip cards**.
