@@ -70,10 +70,18 @@ To install Contanki, use the AnkiWeb shared ID `1898790263`.
 
 #### My profile
 
+You can access my profile file [here](/anki/joystick-main.contanki).
+
 My profile is configured for joystick-only use.
-One joystick can handle all review tasks:
-any direction can **flip cards**,
-and the four directional inputs are used for marking cards as **Easy**, **Good**, **Bad**, or **Again**.
+
+- Any direction on the joystick can **flip cards**.
+- The four directional inputs are used to mark cards as **Easy**, **Good**, **Bad**, or **Again**.
 
 Additionally, the `LT` and `RT` buttons are used for flipping cards,
 while the `LB` and `RB` buttons are used for undoing actions if needed.
+
+#### Import and Export
+
+The plugin supports importing and exporting configuration files in the `.contanki` format.
+
+[Download My Profile File](/anki/joystick-main.contanki).
