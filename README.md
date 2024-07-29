@@ -2,4 +2,4 @@
 
 My configuration files for different softwares.
 
-- [Anki](/anki/README.md)
+- [Anki](/anki/)
