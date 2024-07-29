@@ -2,7 +2,7 @@
 
 ## Deck Options
 
-**Options in bold** mean they have been modified and are not the default settings.
+_**Options in bold** mean they have been modified and are not the default settings._
 
 ### New Cards
 
