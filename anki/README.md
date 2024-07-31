@@ -83,3 +83,7 @@ while the `LB` and `RB` buttons are used for undoing actions if needed.
 The plugin supports importing and exporting configuration files in the `.contanki` format.
 
 [Download My Profile File](/anki/joystick-main.contanki).
+
+### FSRS4Anki Helper
+
+[FSRS4Anki Helper](https://ankiweb.net/shared/info/759844606) is a plugin that supports FSRS4Anki scheduler.
