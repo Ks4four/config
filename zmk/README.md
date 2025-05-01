@@ -1,5 +1,19 @@
 # ZMK
 
+## Design
+
+Left handed main.
+
+- Base: (miryoku)[https://github.com/manna-harbour/miryoku]
+- Combos: (artsey)[https://artsey.io/]
+  - `&kt LCTRL`
+  - `&kt LWIN`
+  - `&kt LALT`
+  - LOCK NAV
+  - LOCK MOUSE is not included since I am using an actual MOUSE
+  - LOCK NUM just a "shift"-ed LOCK NAV
+  - LOCK SYM just a "shift"-ed LOCK MOUSE
+
 ## Leader Keys
 
 ### `urob__leader_1`: Activate Functions
