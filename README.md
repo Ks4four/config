@@ -1,4 +1,4 @@
-# Ks4/conf
+# Ks4four/config
 
 My configuration files for different softwares.
 
